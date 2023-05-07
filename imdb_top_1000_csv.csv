@@ -1,0 +1,1001 @@
+Series_Title,Genre,IMDB_Rating,Meta_score,No_of_Votes,Runtime,Genre_Name
+The Shawshank Redemption,0,9.3,0.8,2343110,142,Drama
+The Godfather,1,9.2,1,1620367,175,Crime
+The Dark Knight,2,9,0.84,2303232,152,Action
+The Godfather: Part II,1,9,0.9,1129952,202,Crime
+12 Angry Men,1,9,0.96,689845,96,Crime
+The Lord of the Rings: The Return of the King,2,8.9,0.94,1642758,201,Action
+Pulp Fiction,1,8.9,0.94,1826188,154,Crime
+Schindler's List,3,8.9,0.94,1213505,195,Biography
+Inception,2,8.8,0.74,2067042,148,Action
+Fight Club,0,8.8,0.66,1854740,139,Drama
+The Lord of the Rings: The Fellowship of the Ring,2,8.8,0.92,1661481,178,Action
+Forrest Gump,0,8.8,0.82,1809221,142,Drama
+"Il buono, il brutto, il cattivo",4,8.8,0.9,688390,161,Western
+The Lord of the Rings: The Two Towers,2,8.7,0.87,1485555,179,Action
+The Matrix,2,8.7,0.73,1676426,136,Action
+Goodfellas,3,8.7,0.9,1020727,146,Biography
+Star Wars: Episode V - The Empire Strikes Back,2,8.7,0.82,1159315,124,Action
+One Flew Over the Cuckoo's Nest,0,8.7,0.83,918088,133,Drama
+Hamilton,3,8.6,0.9,55291,160,Biography
+Gisaengchung,5,8.6,0.96,552778,132,Comedy
+Soorarai Pottru,0,8.6,0,54995,153,Drama
+Interstellar,6,8.6,0.74,1512360,169,Adventure
+Cidade de Deus,1,8.6,0.79,699256,130,Crime
+Sen to Chihiro no kamikakushi,7,8.6,0.96,651376,125,Animation
+Saving Private Ryan,0,8.6,0.91,1235804,169,Drama
+The Green Mile,1,8.6,0.61,1147794,189,Crime
+La vita è bella,5,8.6,0.59,623629,116,Comedy
+Se7en,1,8.6,0.65,1445096,127,Crime
+The Silence of the Lambs,1,8.6,0.85,1270197,118,Crime
+Star Wars,2,8.6,0.9,1231473,121,Action
+Seppuku,2,8.6,0.85,42004,133,Action
+Shichinin no samurai,2,8.6,0.98,315744,207,Action
+It's a Wonderful Life,0,8.6,0.89,405801,130,Drama
+Joker,1,8.5,0.59,939252,122,Crime
+Whiplash,0,8.5,0.88,717585,106,Drama
+The Intouchables,3,8.5,0.57,760360,112,Biography
+The Prestige,0,8.5,0.66,1190259,130,Drama
+The Departed,1,8.5,0.85,1189773,151,Crime
+The Pianist,3,8.5,0.85,729603,150,Biography
+Gladiator,2,8.5,0.67,1341460,155,Action
+American History X,0,8.5,0.62,1034705,119,Drama
+The Usual Suspects,1,8.5,0.77,991208,106,Crime
+Léon,2,8.5,0.64,1035236,110,Action
+The Lion King,7,8.5,0.88,942045,88,Animation
+Terminator 2: Judgment Day,2,8.5,0.75,995506,137,Action
+Nuovo Cinema Paradiso,0,8.5,0.8,230763,155,Drama
+Hotaru no haka,7,8.5,0.94,235231,89,Animation
+Back to the Future,6,8.5,0.87,1058081,116,Adventure
+Once Upon a Time in the West,4,8.5,0.8,302844,165,Western
+Psycho,8,8.5,0.97,604211,109,Horror
+Casablanca,0,8.5,1,522093,102,Drama
+Modern Times,5,8.5,0.96,217881,87,Comedy
+City Lights,5,8.5,0.99,167839,87,Comedy
+Capharnaüm,0,8.4,0.75,62635,126,Drama
+Ayla: The Daughter of War,3,8.4,0,34112,125,Biography
+Vikram Vedha,2,8.4,0,28401,147,Action
+Kimi no na wa.,7,8.4,0.79,194838,106,Animation
+Dangal,2,8.4,0,156479,161,Action
+Spider-Man: Into the Spider-Verse,7,8.4,0.87,375110,117,Animation
+Avengers: Endgame,2,8.4,0.78,809955,181,Action
+Avengers: Infinity War,2,8.4,0.68,834477,149,Action
+Coco,7,8.4,0.81,384171,105,Animation
+Django Unchained,0,8.4,0.81,1357682,165,Drama
+The Dark Knight Rises,2,8.4,0.78,1516346,164,Action
+3 Idiots,5,8.4,0.67,344445,170,Comedy
+Taare Zameen Par,0,8.4,0,168895,165,Drama
+WALL·E,7,8.4,0.95,999790,98,Animation
+The Lives of Others,0,8.4,0.89,358685,137,Drama
+Oldeuboi,2,8.4,0.77,515451,101,Action
+Memento,9,8.4,0.8,1125712,113,Mystery
+Mononoke-hime,7,8.4,0.76,343171,134,Animation
+Once Upon a Time in America,1,8.4,0,311365,229,Crime
+Raiders of the Lost Ark,2,8.4,0.85,884112,115,Action
+The Shining,0,8.4,0.66,898237,146,Drama
+Apocalypse Now,0,8.4,0.94,606398,147,Drama
+Alien,8,8.4,0.89,787806,117,Horror
+Anand,0,8.4,0,30273,122,Drama
+Tengoku to jigoku,1,8.4,0,34357,143,Crime
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,5,8.4,0.97,450474,95,Comedy
+Witness for the Prosecution,1,8.4,0,108862,116,Crime
+Paths of Glory,0,8.4,0.9,178092,88,Drama
+Rear Window,9,8.4,1,444074,112,Mystery
+Sunset Blvd.,0,8.4,0,201632,110,Drama
+The Great Dictator,5,8.4,0,203150,125,Comedy
+1917,0,8.3,0.78,425844,119,Drama
+Tumbbad,0,8.3,0,27793,104,Drama
+Andhadhun,1,8.3,0,71875,139,Crime
+Drishyam,1,8.3,0,30722,160,Crime
+Jagten,0,8.3,0.77,281623,115,Drama
+Jodaeiye Nader az Simin,0,8.3,0.95,220002,123,Drama
+Incendies,0,8.3,0.8,150023,131,Drama
+Miracle in cell NO.7,0,8.3,0,33935,132,Drama
+Babam ve Oglum,0,8.3,0,78925,112,Drama
+Inglourious Basterds,6,8.3,0.69,1267869,153,Adventure
+Eternal Sunshine of the Spotless Mind,0,8.3,0.89,911664,108,Drama
+Amélie,5,8.3,0.69,703810,122,Comedy
+Snatch,5,8.3,0.55,782001,104,Comedy
+Requiem for a Dream,0,8.3,0.68,766870,102,Drama
+American Beauty,0,8.3,0.84,1069738,122,Drama
+Good Will Hunting,0,8.3,0.7,861606,126,Drama
+Bacheha-Ye aseman,0,8.3,0.77,65341,89,Drama
+Toy Story,7,8.3,0.95,887429,81,Animation
+Braveheart,3,8.3,0.68,959181,178,Biography
+Reservoir Dogs,1,8.3,0.79,918562,99,Crime
+Full Metal Jacket,0,8.3,0.76,675146,116,Drama
+Idi i smotri,0,8.3,0,59056,142,Drama
+Aliens,2,8.3,0.84,652719,137,Action
+Amadeus,3,8.3,0.88,369007,160,Biography
+Scarface,1,8.3,0.65,740911,170,Crime
+Star Wars: Episode VI - Return of the Jedi,2,8.3,0.58,950470,131,Action
+Das Boot,6,8.3,0.86,231855,149,Adventure
+Taxi Driver,1,8.3,0.94,724636,114,Crime
+The Sting,5,8.3,0.83,241513,129,Comedy
+A Clockwork Orange,1,8.3,0.77,757904,136,Crime
+2001: A Space Odyssey,6,8.3,0.84,603517,149,Adventure
+Per qualche dollaro in più,4,8.3,0.74,232772,132,Western
+Lawrence of Arabia,6,8.3,1,268085,228,Adventure
+The Apartment,5,8.3,0.94,164363,125,Comedy
+North by Northwest,6,8.3,0.98,299198,136,Adventure
+Vertigo,9,8.3,1,364368,128,Mystery
+Singin' in the Rain,5,8.3,0.99,218957,103,Comedy
+Ikiru,0,8.3,0,68463,143,Drama
+Ladri di biciclette,0,8.3,0,146427,89,Drama
+Double Indemnity,1,8.3,0.95,143525,107,Crime
+Citizen Kane,0,8.3,1,403351,119,Drama
+M - Eine Stadt sucht einen Mörder,1,8.3,0,143434,117,Crime
+Metropolis,0,8.3,0.98,159992,153,Drama
+The Kid,5,8.3,0,113314,68,Comedy
+Chhichhore,5,8.2,0,33893,143,Comedy
+Uri: The Surgical Strike,2,8.2,0,43444,138,Action
+K.G.F: Chapter 1,2,8.2,0,36680,156,Action
+Green Book,3,8.2,0.69,377884,130,Biography
+"Three Billboards Outside Ebbing, Missouri",5,8.2,0.88,432610,115,Comedy
+Talvar,1,8.2,0,31142,132,Crime
+Baahubali 2: The Conclusion,2,8.2,0,75348,167,Action
+Klaus,7,8.2,0.65,104761,96,Animation
+Drishyam,1,8.2,0,70367,163,Crime
+Queen,6,8.2,0,60701,146,Adventure
+Mandariinid,0,8.2,0.73,40382,87,Drama
+Bhaag Milkha Bhaag,3,8.2,0,61137,186,Biography
+Gangs of Wasseypur,2,8.2,0.89,82365,321,Action
+Udaan,0,8.2,0,42341,134,Drama
+Paan Singh Tomar,2,8.2,0,33237,135,Action
+El secreto de sus ojos,0,8.2,0.8,193217,129,Drama
+Warrior,2,8.2,0.71,435950,140,Action
+Shutter Island,9,8.2,0.63,1129894,138,Mystery
+Up,7,8.2,0.88,935507,96,Animation
+The Wolf of Wall Street,3,8.2,0.75,1187498,180,Biography
+Chak De! India,0,8.2,0.68,74129,153,Drama
+There Will Be Blood,0,8.2,0.93,517359,158,Drama
+Pan's Labyrinth,0,8.2,0.98,618623,118,Drama
+Toy Story 3,7,8.2,0.92,757032,103,Animation
+V for Vendetta,2,8.2,0.62,1032749,132,Action
+Rang De Basanti,5,8.2,0,111937,167,Comedy
+Black,0,8.2,0,33354,122,Drama
+Batman Begins,2,8.2,0.7,1308302,140,Action
+"Swades: We, the People",0,8.2,0,83005,210,Drama
+Der Untergang,3,8.2,0.82,331308,156,Biography
+Hauru no ugoku shiro,7,8.2,0.8,333915,119,Animation
+A Beautiful Mind,3,8.2,0.72,848920,135,Biography
+Hera Pheri,2,8.2,0,57057,156,Action
+"Lock, Stock and Two Smoking Barrels",2,8.2,0.66,535216,107,Action
+L.A. Confidential,1,8.2,0.9,531967,138,Crime
+Eskiya,1,8.2,0,64118,128,Crime
+Heat,1,8.2,0.76,577113,170,Crime
+Casino,1,8.2,0.73,466276,178,Crime
+Andaz Apna Apna,2,8.2,0,49300,160,Action
+Unforgiven,0,8.2,0.85,375935,130,Drama
+Indiana Jones and the Last Crusade,2,8.2,0.65,692366,127,Action
+Dom za vesanje,5,8.2,0,26402,142,Comedy
+Tonari no Totoro,7,8.2,0.86,291180,86,Animation
+Die Hard,2,8.2,0.72,793164,132,Action
+Ran,2,8.2,0.96,112505,162,Action
+Raging Bull,3,8.2,0.89,321860,129,Biography
+Stalker,0,8.2,0,116945,162,Drama
+Höstsonaten,0,8.2,0,26875,99,Drama
+The Message,3,8.2,0,43885,177,Biography
+Sholay,2,8.2,0,51284,204,Action
+Monty Python and the Holy Grail,6,8.2,0.91,500875,91,Adventure
+The Great Escape,6,8.2,0.86,224730,172,Adventure
+To Kill a Mockingbird,1,8.2,0.88,293811,129,Crime
+Yôjinbô,2,8.2,0,111244,110,Action
+Judgment at Nuremberg,0,8.2,0.6,69458,179,Drama
+Some Like It Hot,5,8.2,0.98,243943,121,Comedy
+Smultronstället,0,8.2,0.88,96381,91,Drama
+Det sjunde inseglet,0,8.2,0.88,164939,96,Drama
+Du rififi chez les hommes,1,8.2,0.97,28810,118,Crime
+Dial M for Murder,1,8.2,0.75,158335,105,Crime
+Tôkyô monogatari,0,8.2,0,53153,136,Drama
+Rashômon,1,8.2,0.98,152572,88,Crime
+All About Eve,0,8.2,0.98,120539,138,Drama
+The Treasure of the Sierra Madre,6,8.2,0.98,114304,126,Adventure
+To Be or Not to Be,5,8.2,0.86,29915,99,Comedy
+The Gold Rush,6,8.2,0,101053,95,Adventure
+Sherlock Jr.,2,8.2,0,41985,45,Action
+Portrait de la jeune fille en feu,0,8.1,0.95,63134,122,Drama
+Pink,0,8.1,0,39216,136,Drama
+Koe no katachi,7,8.1,0.78,47708,130,Animation
+Contratiempo,1,8.1,0,141516,106,Crime
+Ah-ga-ssi,0,8.1,0.84,113649,145,Drama
+Mommy,0,8.1,0.74,50700,139,Drama
+Haider,2,8.1,0,50445,160,Action
+Logan,2,8.1,0.77,647884,137,Action
+Room,0,8.1,0.86,371538,118,Drama
+Relatos salvajes,5,8.1,0.77,177059,122,Comedy
+Soul,7,8.1,0.83,159171,100,Animation
+Kis Uykusu,0,8.1,0.88,46547,196,Drama
+PK,5,8.1,0,163061,153,Comedy
+OMG: Oh My God!,5,8.1,0,51739,125,Comedy
+The Grand Budapest Hotel,6,8.1,0.88,707630,99,Adventure
+Gone Girl,0,8.1,0.79,859695,149,Drama
+Ôkami kodomo no Ame to Yuki,7,8.1,0.71,38803,117,Animation
+Hacksaw Ridge,3,8.1,0.71,435928,139,Biography
+Inside Out,7,8.1,0.94,616228,95,Animation
+Barfi!,5,8.1,0,75721,151,Comedy
+12 Years a Slave,3,8.1,0.96,640533,134,Biography
+Rush,2,8.1,0.74,432811,123,Action
+Ford v Ferrari,2,8.1,0.81,291289,152,Action
+Spotlight,3,8.1,0.93,420316,129,Biography
+Song of the Sea,7,8.1,0.85,51679,93,Animation
+Kahaani,9,8.1,0,57806,122,Mystery
+Zindagi Na Milegi Dobara,5,8.1,0,67927,155,Comedy
+Prisoners,1,8.1,0.7,601149,153,Crime
+Mad Max: Fury Road,2,8.1,0.9,882316,120,Action
+A Wednesday,2,8.1,0,73891,104,Action
+Gran Torino,0,8.1,0.72,720450,116,Drama
+Harry Potter and the Deathly Hallows: Part 2,6,8.1,0.85,764493,130,Adventure
+Okuribito,0,8.1,0.68,48582,130,Drama
+Hachi: A Dog's Tale,3,8.1,0,253575,93,Biography
+Mary and Max,7,8.1,0,164462,92,Animation
+How to Train Your Dragon,7,8.1,0.75,666773,98,Animation
+Into the Wild,6,8.1,0.73,572921,148,Adventure
+No Country for Old Men,1,8.1,0.91,856916,122,Crime
+Lage Raho Munna Bhai,5,8.1,0,43137,144,Comedy
+Million Dollar Baby,0,8.1,0.86,635975,132,Drama
+Hotel Rwanda,3,8.1,0.79,334320,121,Biography
+Taegukgi hwinalrimyeo,2,8.1,0.64,37820,140,Action
+Before Sunset,0,8.1,0.9,236311,80,Drama
+Munna Bhai M.B.B.S.,5,8.1,0,73992,156,Comedy
+Salinui chueok,1,8.1,0.82,139558,131,Crime
+Dil Chahta Hai,5,8.1,0,66803,183,Comedy
+Kill Bill: Vol. 1,2,8.1,0.69,1000639,111,Action
+Finding Nemo,7,8.1,0.9,949565,100,Animation
+Catch Me If You Can,3,8.1,0.75,832846,141,Biography
+Amores perros,0,8.1,0.83,223741,154,Drama
+"Monsters, Inc.",7,8.1,0.79,815505,92,Animation
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",7,8.1,0,38847,87,Animation
+Lagaan: Once Upon a Time in India,6,8.1,0.84,105036,224,Adventure
+The Sixth Sense,0,8.1,0.64,911573,107,Drama
+La leggenda del pianista sull'oceano,0,8.1,0.58,59020,169,Drama
+The Truman Show,5,8.1,0.9,939631,103,Comedy
+"Crna macka, beli macor",5,8.1,0.73,50862,127,Comedy
+The Big Lebowski,5,8.1,0.71,732620,117,Comedy
+Fa yeung nin wah,0,8.1,0.85,124383,98,Drama
+Trainspotting,0,8.1,0.83,634716,93,Drama
+Fargo,1,8.1,0.85,617444,98,Crime
+Underground,5,8.1,0,55220,170,Comedy
+La haine,1,8.1,0,150345,98,Crime
+Dilwale Dulhania Le Jayenge,0,8.1,0,63516,189,Drama
+Before Sunrise,0,8.1,0.77,272291,101,Drama
+Trois couleurs: Rouge,0,8.1,1,90729,99,Drama
+Chung Hing sam lam,5,8.1,0.77,63122,102,Comedy
+Jurassic Park,2,8.1,0.68,867615,127,Action
+In the Name of the Father,3,8.1,0.84,156842,133,Biography
+Ba wang bie ji,0,8.1,0,25088,171,Drama
+Dà hóng denglong gaogao guà,0,8.1,0,29662,125,Drama
+Dead Poets Society,5,8.1,0.79,425457,128,Comedy
+Stand by Me,6,8.1,0.75,363401,89,Adventure
+Platoon,0,8.1,0.92,381222,120,Drama
+"Paris, Texas",0,8.1,0.78,91188,145,Drama
+Kaze no tani no Naushika,7,8.1,0.86,150924,117,Animation
+The Thing,8,8.1,0.57,371271,109,Horror
+Pink Floyd: The Wall,0,8.1,0.47,76081,95,Drama
+Fitzcarraldo,6,8.1,0,31595,158,Adventure
+Fanny och Alexander,0,8.1,1,57784,188,Drama
+Blade Runner,2,8.1,0.84,693827,117,Action
+The Elephant Man,3,8.1,0.78,220078,124,Biography
+Life of Brian,5,8.1,0.77,367250,94,Comedy
+The Deer Hunter,0,8.1,0.86,311361,183,Drama
+Rocky,0,8.1,0.7,518546,120,Drama
+Network,0,8.1,0.83,144911,121,Drama
+Barry Lyndon,6,8.1,0.89,149843,185,Adventure
+Zerkalo,3,8.1,0,40081,107,Biography
+Chinatown,0,8.1,0.92,294230,130,Drama
+Paper Moon,5,8.1,0.77,42285,102,Comedy
+Viskningar och rop,0,8.1,0,30206,91,Drama
+Solaris,0,8.1,0.9,81021,167,Drama
+Le samouraï,1,8.1,0,45434,105,Crime
+Cool Hand Luke,1,8.1,0.92,161984,127,Crime
+Persona,0,8.1,0.86,103191,85,Drama
+Andrei Rublev,3,8.1,0,46947,205,Biography
+La battaglia di Algeri,0,8.1,0.96,53089,121,Drama
+El ángel exterminador,0,8.1,0,29682,95,Drama
+What Ever Happened to Baby Jane?,0,8.1,0.75,50058,134,Drama
+Sanjuro,2,8.1,0,33044,96,Action
+The Man Who Shot Liberty Valance,0,8.1,0.94,68827,123,Drama
+Ivanovo detstvo,0,8.1,0,31728,95,Drama
+Jungfrukällan,0,8.1,0,26697,89,Drama
+Inherit the Wind,3,8.1,0.75,27254,128,Biography
+Les quatre cents coups,1,8.1,0,105291,99,Crime
+Ben-Hur,6,8.1,0.9,219466,212,Adventure
+Kakushi-toride no san-akunin,6,8.1,0,34797,139,Adventure
+Le notti di Cabiria,0,8.1,0,42940,110,Drama
+Kumonosu-jô,0,8.1,0,46678,110,Drama
+The Bridge on the River Kwai,6,8.1,0.87,203463,161,Adventure
+On the Waterfront,1,8.1,0.91,142107,108,Crime
+Le salaire de la peur,6,8.1,0.85,54588,131,Adventure
+Ace in the Hole,0,8.1,0.72,31568,111,Drama
+White Heat,2,8.1,0,29807,114,Action
+The Third Man,10,8.1,0.97,158731,104,Film-Noir
+The Red Shoes,0,8.1,0,30935,135,Drama
+The Shop Around the Corner,5,8.1,0.96,28450,99,Comedy
+Rebecca,0,8.1,0.86,123942,130,Drama
+Mr. Smith Goes to Washington,5,8.1,0.73,107017,129,Comedy
+Gone with the Wind,0,8.1,0.97,290074,238,Drama
+La Grande Illusion,0,8.1,0,33829,113,Drama
+It Happened One Night,5,8.1,0.87,94016,105,Comedy
+La passion de Jeanne d'Arc,3,8.1,0,47676,110,Biography
+The Circus,5,8.1,0.9,30205,72,Comedy
+Sunrise: A Song of Two Humans,0,8.1,0,46865,94,Drama
+The General,2,8.1,0,81156,67,Action
+Das Cabinet des Dr. Caligari,11,8.1,0,57428,76,Fantasy
+Badhaai ho,5,8,0,27978,124,Comedy
+Togo,6,8,0.69,37556,113,Adventure
+Airlift,0,8,0,52897,130,Drama
+Bajrangi Bhaijaan,2,8,0,72245,163,Action
+Baby,2,8,0,52848,159,Action
+La La Land,5,8,0.94,505918,128,Comedy
+Lion,3,8,0.69,213970,118,Biography
+The Martian,6,8,0.8,760094,144,Adventure
+Zootopia,7,8,0.78,434143,108,Animation
+Bãhubali: The Beginning,2,8,0,102972,159,Action
+Kaguyahime no monogatari,7,8,0.89,38746,137,Animation
+Wonder,0,8,0.66,141923,113,Drama
+Gully Boy,0,8,0.65,31886,154,Drama
+Special Chabbis,1,8,0,51069,144,Crime
+Short Term 12,0,8,0.82,81770,96,Drama
+Serbuan maut 2: Berandal,2,8,0.71,114316,150,Action
+The Imitation Game,3,8,0.73,685201,114,Biography
+Guardians of the Galaxy,2,8,0.76,1043455,121,Action
+Blade Runner 2049,2,8,0.81,461823,164,Action
+Her,0,8,0.9,540772,126,Drama
+Bohemian Rhapsody,3,8,0.49,450349,134,Biography
+The Revenant,2,8,0.76,705589,156,Action
+The Perks of Being a Wallflower,0,8,0.67,462252,103,Drama
+Tropa de Elite 2: O Inimigo Agora é Outro,2,8,0.71,79200,115,Action
+The King's Speech,3,8,0.88,639603,118,Biography
+The Help,0,8,0.62,428521,146,Drama
+Deadpool,2,8,0.65,902669,108,Action
+Darbareye Elly,0,8,0.87,45803,119,Drama
+Dev.D,0,8,0,28749,144,Drama
+Yip Man,2,8,0.59,211427,106,Action
+My Name Is Khan,0,8,0.5,98575,165,Drama
+Nefes: Vatan Sagolsun,2,8,0,31838,128,Action
+Slumdog Millionaire,0,8,0.84,798882,120,Drama
+Black Swan,0,8,0.79,699673,108,Drama
+Tropa de Elite,2,8,0.33,98097,115,Action
+The Avengers,2,8,0.69,1260806,143,Action
+Persepolis,7,8,0.9,88656,96,Animation
+Dallas Buyers Club,3,8,0.8,441614,117,Biography
+The Pursuit of Happyness,3,8,0.64,448930,117,Biography
+Blood Diamond,6,8,0.64,499439,143,Adventure
+The Bourne Ultimatum,2,8,0.85,604694,115,Action
+Bin-jip,1,8,0.72,50610,88,Crime
+Sin City,1,8,0.74,738512,124,Crime
+Le scaphandre et le papillon,3,8,0.92,103284,112,Biography
+G.O.R.A.,6,8,0,56960,127,Adventure
+Ratatouille,7,8,0.96,641645,111,Animation
+Casino Royale,2,8,0.8,582239,144,Action
+Kill Bill: Vol. 2,2,8,0.83,683900,137,Action
+Vozvrashchenie,0,8,0.82,42399,110,Drama
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,0,8,0.85,77520,103,Drama
+Mar adentro,3,8,0.74,77554,126,Biography
+Cinderella Man,3,8,0.69,176151,144,Biography
+Kal Ho Naa Ho,5,8,0.54,63460,186,Comedy
+Mou gaan dou,2,8,0.75,117857,101,Action
+Pirates of the Caribbean: The Curse of the Black Pearl,2,8,0.63,1015122,143,Action
+Big Fish,6,8,0.58,415218,125,Adventure
+The Incredibles,7,8,0.9,657047,115,Animation
+Yeopgijeogin geunyeo,5,8,0,45403,137,Comedy
+Dogville,1,8,0.6,137963,178,Crime
+Vizontele,5,8,0,33592,110,Comedy
+Donnie Darko,0,8,0.88,740086,113,Drama
+Magnolia,0,8,0.77,289742,188,Drama
+Dancer in the Dark,1,8,0.61,102285,140,Crime
+The Straight Story,3,8,0.86,82002,112,Biography
+Pâfekuto burû,7,8,0,58192,81,Animation
+Festen,0,8,0.82,78341,105,Drama
+Central do Brasil,0,8,0.8,36419,110,Drama
+The Iron Giant,7,8,0.85,172083,86,Animation
+Knockin' on Heaven's Door,2,8,0,27721,87,Action
+Sling Blade,0,8,0.84,86838,135,Drama
+Secrets & Lies,5,8,0.91,37564,136,Comedy
+Twelve Monkeys,9,8,0.74,578443,129,Mystery
+Kôkaku Kidôtai,7,8,0.76,129231,83,Animation
+The Nightmare Before Christmas,7,8,0.82,300208,76,Animation
+Groundhog Day,5,8,0.72,577991,101,Comedy
+Bound by Honor,1,8,0.47,28825,180,Crime
+Scent of a Woman,0,8,0.59,263918,156,Drama
+Aladdin,7,8,0.86,373845,90,Animation
+JFK,0,8,0.72,142110,189,Drama
+Beauty and the Beast,7,8,0.95,417178,84,Animation
+Dances with Wolves,6,8,0.72,240266,181,Adventure
+Do the Right Thing,5,8,0.93,89429,120,Comedy
+Rain Man,0,8,0.65,473064,133,Drama
+Akira,7,8,0,164918,124,Animation
+The Princess Bride,6,8,0.77,393899,98,Adventure
+Der Himmel über Berlin,0,8,0.79,64722,128,Drama
+Au revoir les enfants,0,8,0.88,31163,104,Drama
+Tenkû no shiro Rapyuta,7,8,0.78,150140,125,Animation
+The Terminator,2,8,0.84,799795,107,Action
+Gandhi,3,8,0.79,217664,191,Biography
+Kagemusha,0,8,0.84,32195,180,Drama
+Being There,5,8,0.83,65625,130,Comedy
+Annie Hall,5,8,0.92,251823,93,Comedy
+Jaws,6,8,0.87,543388,124,Adventure
+Dog Day Afternoon,3,8,0.86,235652,125,Biography
+Young Frankenstein,5,8,0.8,143359,106,Comedy
+Papillon,3,8,0.58,121627,151,Biography
+The Exorcist,8,8,0.81,362393,122,Horror
+Sleuth,9,8,0,44748,138,Mystery
+The Last Picture Show,0,8,0.93,42456,118,Drama
+Fiddler on the Roof,0,8,0.67,39491,181,Drama
+Il conformista,0,8,1,27067,113,Drama
+Butch Cassidy and the Sundance Kid,3,8,0.66,201888,110,Biography
+Rosemary's Baby,0,8,0.96,193674,137,Drama
+Planet of the Apes,6,8,0.79,165167,112,Adventure
+The Graduate,5,8,0.83,253676,106,Comedy
+Who's Afraid of Virginia Woolf?,0,8,0.75,68926,131,Drama
+The Sound of Music,3,8,0.63,205425,172,Biography
+Doctor Zhivago,0,8,0.69,69903,197,Drama
+Per un pugno di dollari,2,8,0.65,198219,99,Action
+8½,0,8,0.91,108844,138,Drama
+Vivre sa vie: Film en douze tableaux,0,8,0,28057,80,Drama
+The Hustler,0,8,0.9,75067,134,Drama
+La dolce vita,5,8,0.95,66621,174,Comedy
+Rio Bravo,2,8,0.93,56305,141,Action
+Anatomy of a Murder,1,8,0.95,59847,161,Crime
+Touch of Evil,1,8,0.99,98431,95,Crime
+Cat on a Hot Tin Roof,0,8,0.84,45062,108,Drama
+Sweet Smell of Success,0,8,1,28137,96,Drama
+The Killing,1,8,0.91,81702,84,Crime
+The Night of the Hunter,1,8,0.99,81980,92,Crime
+La Strada,0,8,0,58314,108,Drama
+Les diaboliques,1,8,0,61503,117,Crime
+Stalag 17,5,8,0.84,51046,120,Comedy
+Roman Holiday,5,8,0.78,127256,118,Comedy
+A Streetcar Named Desire,0,8,0.97,99182,122,Drama
+In a Lonely Place,0,8,0,26784,94,Drama
+Kind Hearts and Coronets,5,8,0,34485,106,Comedy
+Rope,1,8,0.73,129783,80,Crime
+Out of the Past,1,8,0,32784,97,Crime
+Brief Encounter,0,8,0.92,35601,86,Drama
+Laura,0,8,0,42725,88,Drama
+The Best Years of Our Lives,0,8,0.93,57259,170,Drama
+Arsenic and Old Lace,5,8,0,65101,118,Comedy
+The Maltese Falcon,10,8,0.96,148928,100,Film-Noir
+The Grapes of Wrath,0,8,0.96,85559,129,Drama
+The Wizard of Oz,6,8,0.92,371379,102,Adventure
+La règle du jeu,5,8,0,26725,110,Comedy
+The Thin Man,5,8,0.86,26642,91,Comedy
+All Quiet on the Western Front,0,8,0.91,57318,152,Drama
+Bronenosets Potemkin,0,8,0.97,53054,75,Drama
+Knives Out,5,7.9,0.82,454203,130,Comedy
+Dil Bechara,5,7.9,0,111478,101,Comedy
+Manbiki kazoku,1,7.9,0.93,62754,121,Crime
+Marriage Story,5,7.9,0.94,246644,137,Comedy
+Call Me by Your Name,0,7.9,0.93,212651,132,Drama
+"I, Daniel Blake",0,7.9,0.78,53818,100,Drama
+Isle of Dogs,7,7.9,0.82,139114,101,Animation
+Hunt for the Wilderpeople,6,7.9,0.81,111483,101,Adventure
+Captain Fantastic,5,7.9,0.72,189400,118,Comedy
+Sing Street,5,7.9,0.79,85109,106,Comedy
+Thor: Ragnarok,2,7.9,0.74,587775,130,Action
+Nightcrawler,1,7.9,0.76,466134,117,Crime
+Jojo Rabbit,5,7.9,0.58,297918,108,Comedy
+Arrival,0,7.9,0.81,594181,116,Drama
+Star Wars: Episode VII - The Force Awakens,2,7.9,0.8,860823,138,Action
+Before Midnight,0,7.9,0.94,141457,109,Drama
+X-Men: Days of Future Past,2,7.9,0.75,659763,132,Action
+Bir Zamanlar Anadolu'da,1,7.9,0.82,41995,157,Crime
+The Artist,5,7.9,0.89,230624,100,Comedy
+Edge of Tomorrow,2,7.9,0.71,600004,113,Action
+Amour,0,7.9,0.94,93090,127,Drama
+The Irishman,3,7.9,0.94,324720,209,Biography
+Un prophète,1,7.9,0.9,93560,155,Crime
+Moon,0,7.9,0.67,335152,97,Drama
+Låt den rätte komma in,1,7.9,0.82,205609,114,Crime
+District 9,2,7.9,0.81,638202,112,Action
+The Wrestler,0,7.9,0.8,289415,109,Drama
+Jab We Met,5,7.9,0,47720,138,Comedy
+Boyhood,0,7.9,1,335533,165,Drama
+"4 luni, 3 saptamâni si 2 zile",0,7.9,0.97,56625,113,Drama
+Star Trek,2,7.9,0.82,577336,127,Action
+In Bruges,5,7.9,0.67,390334,107,Comedy
+The Man from Earth,0,7.9,0,174125,87,Drama
+Letters from Iwo Jima,2,7.9,0.89,154011,141,Action
+The Fall,6,7.9,0.64,107290,117,Adventure
+Life of Pi,6,7.9,0.79,580708,127,Adventure
+Fantastic Mr. Fox,7,7.9,0.83,199696,87,Animation
+C.R.A.Z.Y.,5,7.9,0.81,31476,129,Comedy
+Les choristes,0,7.9,0.56,57430,97,Drama
+Iron Man,2,7.9,0.79,939644,126,Action
+Shaun of the Dead,5,7.9,0.76,512249,99,Comedy
+Gegen die Wand,0,7.9,0.78,51325,121,Drama
+Mystic River,1,7.9,0.84,419420,138,Crime
+Harry Potter and the Prisoner of Azkaban,6,7.9,0.82,552493,142,Adventure
+Ying xiong,2,7.9,0.85,173999,120,Action
+Hable con ella,0,7.9,0.86,104691,112,Drama
+No Man's Land,5,7.9,0.84,44618,98,Comedy
+Cowboy Bebop: Tengoku no tobira,7,7.9,0.61,42897,115,Animation
+The Bourne Identity,2,7.9,0.68,508771,119,Action
+Nueve reinas,1,7.9,0.8,49721,114,Crime
+Children of Men,6,7.9,0.84,465113,109,Adventure
+Almost Famous,6,7.9,0.9,252586,122,Adventure
+Mulholland Dr.,0,7.9,0.85,322031,147,Drama
+Toy Story 2,7,7.9,0.88,527512,92,Animation
+Boogie Nights,0,7.9,0.85,239473,155,Drama
+Mimi wo sumaseba,7,7.9,0.75,51943,111,Animation
+Once Were Warriors,1,7.9,0.77,31590,102,Crime
+True Romance,1,7.9,0.59,206918,119,Crime
+Trois couleurs: Bleu,0,7.9,0.85,89836,94,Drama
+Jûbê ninpûchô,7,7.9,0,34529,94,Animation
+Carlito's Way,1,7.9,0.65,201000,144,Crime
+Edward Scissorhands,0,7.9,0.74,447368,105,Drama
+My Left Foot: The Story of Christy Brown,3,7.9,0.97,68076,103,Biography
+Crimes and Misdemeanors,5,7.9,0.77,54670,104,Comedy
+The Untouchables,1,7.9,0.79,281842,119,Crime
+Hannah and Her Sisters,5,7.9,0.9,67176,107,Comedy
+Brazil,0,7.9,0.84,187567,132,Drama
+This Is Spinal Tap,5,7.9,0.92,128812,82,Comedy
+A Christmas Story,5,7.9,0.77,132947,93,Comedy
+The Blues Brothers,2,7.9,0.6,183182,133,Action
+Manhattan,5,7.9,0.83,131436,96,Comedy
+All That Jazz,0,7.9,0.72,28223,123,Drama
+Dawn of the Dead,2,7.9,0.71,111512,127,Action
+All the President's Men,3,7.9,0.84,103031,138,Biography
+La montaña sagrada,6,7.9,0.76,37183,114,Adventure
+Amarcord,5,7.9,0,39897,123,Comedy
+Le charme discret de la bourgeoisie,5,7.9,0.93,38737,102,Comedy
+"Aguirre, der Zorn Gottes",2,7.9,0,52397,95,Action
+Harold and Maude,5,7.9,0.62,70826,91,Comedy
+Patton,3,7.9,0.91,93741,172,Biography
+The Wild Bunch,2,7.9,0.97,77401,145,Action
+Night of the Living Dead,8,7.9,0.89,116557,96,Horror
+The Lion in Winter,3,7.9,0,29003,134,Biography
+In the Heat of the Night,1,7.9,0.75,67804,110,Crime
+Charade,5,7.9,0.83,68689,113,Comedy
+The Manchurian Candidate,0,7.9,0.94,71122,126,Drama
+Spartacus,6,7.9,0.87,124339,197,Adventure
+L'avventura,0,7.9,0,26542,144,Drama
+Hiroshima mon amour,0,7.9,0,28421,90,Drama
+The Ten Commandments,6,7.9,0,63560,220,Adventure
+The Searchers,6,7.9,0.94,80316,119,Adventure
+East of Eden,0,7.9,0.72,40313,118,Drama
+High Noon,0,7.9,0.89,97222,85,Drama
+Strangers on a Train,1,7.9,0.88,123341,101,Crime
+Harvey,5,7.9,0,52573,104,Comedy
+Miracle on 34th Street,5,7.9,0.88,41625,96,Comedy
+Notorious,0,7.9,1,92306,102,Drama
+The Big Sleep,1,7.9,0,78796,114,Crime
+The Lost Weekend,0,7.9,0,33549,101,Drama
+The Philadelphia Story,5,7.9,0.96,63550,112,Comedy
+His Girl Friday,5,7.9,0,53667,92,Comedy
+The Adventures of Robin Hood,2,7.9,0.97,47175,102,Action
+A Night at the Opera,5,7.9,0,30580,96,Comedy
+King Kong,6,7.9,0.9,78991,100,Adventure
+Freaks,0,7.9,0.8,42117,64,Drama
+Nosferatu,11,7.9,0,88794,94,Fantasy
+The Gentlemen,2,7.8,0.51,237392,113,Action
+Raazi,2,7.8,0,25344,138,Action
+Sound of Metal,0,7.8,0.81,27187,120,Drama
+Forushande,0,7.8,0.85,51240,124,Drama
+Dunkirk,2,7.8,0.94,555092,106,Action
+Perfetti sconosciuti,5,7.8,0,57168,96,Comedy
+Hidden Figures,3,7.8,0.74,200876,127,Biography
+Paddington 2,6,7.8,0.88,61594,103,Adventure
+Udta Punjab,2,7.8,0,27175,148,Action
+Kubo and the Two Strings,7,7.8,0.84,118035,101,Animation
+M.S. Dhoni: The Untold Story,3,7.8,0,40416,184,Biography
+Manchester by the Sea,0,7.8,0.96,246963,137,Drama
+Under sandet,0,7.8,0.75,35539,100,Drama
+Rogue One,2,7.8,0.65,556608,133,Action
+Captain America: Civil War,2,7.8,0.75,663649,147,Action
+The Hateful Eight,1,7.8,0.68,517059,168,Crime
+Little Women,0,7.8,0.91,143250,135,Drama
+Loving Vincent,7,7.8,0.62,50778,94,Animation
+Pride,3,7.8,0.79,51841,119,Biography
+Le passé,0,7.8,0.85,45002,130,Drama
+La grande bellezza,0,7.8,0.86,81125,141,Drama
+The Lunchbox,0,7.8,0.76,50523,104,Drama
+Vicky Donor,5,7.8,0,39710,126,Comedy
+Big Hero 6,7,7.8,0.74,410983,102,Animation
+About Time,5,7.8,0.55,303032,123,Comedy
+English Vinglish,5,7.8,0,33618,134,Comedy
+Kaze tachinu,7,7.8,0.83,73690,126,Animation
+Toy Story 4,7,7.8,0.84,203177,100,Animation
+La migliore offerta,1,7.8,0.49,108399,131,Crime
+Moonrise Kingdom,5,7.8,0.84,318789,94,Comedy
+How to Train Your Dragon 2,7,7.8,0.76,305611,102,Animation
+The Big Short,3,7.8,0.81,362942,130,Biography
+Kokuhaku,0,7.8,0,35713,106,Drama
+Ang-ma-reul bo-at-da,2,7.8,0.67,111252,144,Action
+The Girl with the Dragon Tattoo,1,7.8,0.71,423010,158,Crime
+Captain Phillips,6,7.8,0.82,421244,134,Adventure
+Ajeossi,2,7.8,0,62848,119,Action
+Straight Outta Compton,3,7.8,0.72,179264,147,Biography
+Madeo,1,7.8,0.79,52758,129,Crime
+Chugyeokja,2,7.8,0.64,58468,125,Action
+The Hobbit: The Desolation of Smaug,6,7.8,0.66,601408,161,Adventure
+Das weiße Band - Eine deutsche Kindergeschichte,0,7.8,0.82,68715,144,Drama
+Män som hatar kvinnor,1,7.8,0.76,208994,152,Crime
+The Trial of the Chicago 7,0,7.8,0.77,89896,129,Drama
+Druk,5,7.8,0.81,33931,117,Comedy
+The Fighter,3,7.8,0.79,340584,116,Biography
+Taken,2,7.8,0.51,564791,90,Action
+The Boy in the Striped Pyjamas,0,7.8,0.55,190748,94,Drama
+Once,0,7.8,0.88,110656,86,Drama
+The Hobbit: An Unexpected Journey,6,7.8,0.58,757377,169,Adventure
+Auf der anderen Seite,0,7.8,0.85,30827,122,Drama
+Atonement,0,7.8,0.85,251370,123,Drama
+Drive,1,7.8,0.78,571571,100,Crime
+American Gangster,3,7.8,0.76,392449,157,Biography
+Avatar,2,7.8,0.83,1118998,162,Action
+Mr. Nobody,0,7.8,0.63,216421,141,Drama
+Apocalypto,2,7.8,0.68,291018,139,Action
+Little Miss Sunshine,5,7.8,0.8,439856,101,Comedy
+Hot Fuzz,2,7.8,0.81,463466,121,Action
+The Curious Case of Benjamin Button,0,7.8,0.7,589160,166,Drama
+Veer-Zaara,0,7.8,0.67,49050,192,Drama
+Adams æbler,5,7.8,0.51,45717,94,Comedy
+Pride & Prejudice,0,7.8,0.82,258924,129,Drama
+The World's Fastest Indian,3,7.8,0.68,51980,127,Biography
+Tôkyô goddofâzâzu,7,7.8,0.73,31658,90,Animation
+Serenity,2,7.8,0.74,283310,119,Action
+Walk the Line,3,7.8,0.72,234207,136,Biography
+Ondskan,0,7.8,0.61,35682,113,Drama
+The Notebook,0,7.8,0.53,520284,123,Drama
+Diarios de motocicleta,6,7.8,0.75,96703,126,Adventure
+Lilja 4-ever,1,7.8,0.82,42673,109,Crime
+Les triplettes de Belleville,7,7.8,0.91,50622,80,Animation
+Gongdong gyeongbi guyeok JSA,2,7.8,0.58,26518,110,Action
+The Count of Monte Cristo,2,7.8,0.61,129022,131,Action
+Waking Life,7,7.8,0.83,60684,99,Animation
+Remember the Titans,3,7.8,0.48,198089,113,Biography
+Wo hu cang long,2,7.8,0.94,253228,120,Action
+Todo sobre mi madre,0,7.8,0.87,89058,101,Drama
+Cast Away,6,7.8,0.73,524235,143,Adventure
+The Boondock Saints,2,7.8,0.44,227143,108,Action
+The Insider,3,7.8,0.84,159886,157,Biography
+October Sky,3,7.8,0.71,82855,108,Biography
+Shrek,7,7.8,0.84,613941,90,Animation
+Titanic,0,7.8,0.75,1046089,194,Drama
+Hana-bi,1,7.8,0,27712,103,Crime
+Gattaca,0,7.8,0.64,280845,106,Drama
+The Game,2,7.8,0.61,345096,129,Action
+Breaking the Waves,0,7.8,0.76,62428,159,Drama
+Ed Wood,3,7.8,0.7,164937,127,Biography
+What's Eating Gilbert Grape,0,7.8,0.73,215034,118,Drama
+Tombstone,2,7.8,0.5,126871,130,Action
+The Sandlot,5,7.8,0.55,78963,101,Comedy
+The Remains of the Day,0,7.8,0.84,66065,134,Drama
+Naked,5,7.8,0.84,34635,132,Comedy
+The Fugitive,2,7.8,0.87,267684,130,Action
+A Bronx Tale,1,7.8,0.8,128171,121,Crime
+Batman: Mask of the Phantasm,7,7.8,0,43690,76,Animation
+Lat sau san taam,2,7.8,0,46700,128,Action
+Night on Earth,5,7.8,0.68,55362,129,Comedy
+La double vie de Véronique,0,7.8,0.86,42376,98,Drama
+Boyz n the Hood,1,7.8,0.76,126082,112,Crime
+Misery,0,7.8,0.75,184740,107,Drama
+Awakenings,3,7.8,0.74,125276,121,Biography
+Majo no takkyûbin,7,7.8,0.83,124193,103,Animation
+Glory,3,7.8,0.78,122779,122,Biography
+Dip huet seung hung,2,7.8,0.82,45624,111,Action
+Back to the Future Part II,6,7.8,0.57,481918,108,Adventure
+Mississippi Burning,1,7.8,0.65,88214,128,Crime
+Predator,2,7.8,0.45,371387,107,Action
+Evil Dead II,2,7.8,0.72,148359,84,Action
+Ferris Bueller's Day Off,5,7.8,0.61,321382,103,Comedy
+Down by Law,5,7.8,0.75,47834,107,Comedy
+The Goonies,6,7.8,0.62,244430,114,Adventure
+The Color Purple,0,7.8,0.78,78321,154,Drama
+The Breakfast Club,5,7.8,0.66,357026,97,Comedy
+The Killing Fields,3,7.8,0.76,51585,141,Biography
+Ghostbusters,2,7.8,0.71,355413,105,Action
+The Right Stuff,6,7.8,0.91,56235,193,Adventure
+The King of Comedy,5,7.8,0.73,88511,109,Comedy
+E.T. the Extra-Terrestrial,12,7.8,0.91,372490,115,Family
+Kramer vs. Kramer,0,7.8,0.77,133351,105,Drama
+Days of Heaven,0,7.8,0.93,52852,94,Drama
+The Outlaw Josey Wales,4,7.8,0.69,65659,135,Western
+The Man Who Would Be King,6,7.8,0.91,44917,129,Adventure
+The Conversation,0,7.8,0.85,98611,113,Drama
+La planète sauvage,7,7.8,0.73,25229,72,Animation
+The Day of the Jackal,1,7.8,0.8,37445,143,Crime
+Badlands,2,7.8,0.93,66009,94,Action
+Cabaret,0,7.8,0.8,48334,124,Drama
+Willy Wonka & the Chocolate Factory,12,7.8,0.67,178731,100,Family
+Midnight Cowboy,0,7.8,0.79,101124,113,Drama
+Wait Until Dark,13,7.8,0.81,27733,108,Thriller
+Guess Who's Coming to Dinner,5,7.8,0.63,39642,108,Comedy
+Bonnie and Clyde,2,7.8,0.86,102415,111,Action
+My Fair Lady,0,7.8,0.95,86525,170,Drama
+Mary Poppins,5,7.8,0.88,158029,139,Comedy
+The Longest Day,2,7.8,0.75,52141,178,Action
+Jules et Jim,0,7.8,0.97,37605,105,Drama
+The Innocents,8,7.8,0.88,27007,100,Horror
+À bout de souffle,1,7.8,0,73251,90,Crime
+Red River,2,7.8,0,28167,133,Action
+Key Largo,2,7.8,0,36995,100,Action
+To Have and Have Not,6,7.8,0,31053,100,Adventure
+Shadow of a Doubt,10,7.8,0.94,59556,108,Film-Noir
+Stagecoach,6,7.8,0.93,43621,96,Adventure
+The Lady Vanishes,9,7.8,0.98,47400,96,Mystery
+Bringing Up Baby,5,7.8,0.91,55163,102,Comedy
+Bride of Frankenstein,0,7.8,0.95,43542,75,Drama
+Duck Soup,5,7.8,0.93,55581,69,Comedy
+Scarface: The Shame of the Nation,2,7.8,0.87,25312,93,Action
+Frankenstein,0,7.8,0.91,65341,70,Drama
+Roma,0,7.7,0.96,140375,135,Drama
+God's Own Country,0,7.7,0.85,25198,104,Drama
+Deadpool 2,2,7.7,0.66,478586,119,Action
+Wind River,1,7.7,0.73,205444,107,Crime
+Get Out,8,7.7,0.85,492851,104,Horror
+Mission: Impossible - Fallout,2,7.7,0.86,291257,147,Action
+En man som heter Ove,5,7.7,0.7,47444,116,Comedy
+What We Do in the Shadows,5,7.7,0.76,157498,86,Comedy
+Omoide no Mânî,7,7.7,0.72,32798,103,Animation
+The Theory of Everything,3,7.7,0.72,404182,123,Biography
+Kingsman: The Secret Service,2,7.7,0.6,590440,129,Action
+The Fault in Our Stars,0,7.7,0.69,344312,126,Drama
+Me and Earl and the Dying Girl,5,7.7,0.74,123210,105,Comedy
+Birdman or (The Unexpected Virtue of Ignorance),5,7.7,0.87,580291,119,Comedy
+La vie d'Adèle,0,7.7,0.89,138741,180,Drama
+Kai po che!,0,7.7,0.4,32628,130,Drama
+The Broken Circle Breakdown,0,7.7,0.7,39379,111,Drama
+Captain America: The Winter Soldier,2,7.7,0.7,736182,136,Action
+Rockstar,0,7.7,0,39501,159,Drama
+Nebraska,6,7.7,0.87,112298,115,Adventure
+Wreck-It Ralph,7,7.7,0.72,380195,101,Animation
+Le Petit Prince,7,7.7,0.7,56720,108,Animation
+Detachment,0,7.7,0.52,77071,98,Drama
+Midnight in Paris,5,7.7,0.81,388089,96,Comedy
+The Lego Movie,7,7.7,0.83,323982,100,Animation
+Gravity,0,7.7,0.96,769145,91,Drama
+Star Trek Into Darkness,2,7.7,0.72,463188,132,Action
+Beasts of No Nation,0,7.7,0.79,73964,137,Drama
+The Social Network,3,7.7,0.95,624982,120,Biography
+X: First Class,2,7.7,0.65,645512,131,Action
+The Hangover,5,7.7,0.73,717559,100,Comedy
+Skyfall,2,7.7,0.81,630614,143,Action
+Silver Linings Playbook,5,7.7,0.81,661871,122,Comedy
+Argo,3,7.7,0.86,572581,120,Biography
+(500) Days of Summer,5,7.7,0.76,472242,95,Comedy
+Harry Potter and the Deathly Hallows: Part 1,6,7.7,0.65,479120,146,Adventure
+Gake no ue no Ponyo,7,7.7,0.86,125317,101,Animation
+Frost/Nixon,3,7.7,0.8,103330,122,Biography
+Papurika,7,7.7,0.81,71379,90,Animation
+Changeling,3,7.7,0.63,239203,141,Biography
+Flipped,5,7.7,0.45,81446,90,Comedy
+Toki o kakeru shôjo,7,7.7,0,60368,98,Animation
+Death Note: Desu nôto,1,7.7,0,28630,126,Crime
+This Is England,1,7.7,0.86,115576,101,Crime
+Ex Machina,0,7.7,0.78,474141,108,Drama
+Efter brylluppet,0,7.7,0.78,32001,120,Drama
+The Last King of Scotland,3,7.7,0.74,175355,123,Biography
+Zodiac,1,7.7,0.78,466080,157,Crime
+Lucky Number Slevin,2,7.7,0.53,299524,110,Action
+Joyeux Noël,0,7.7,0.7,28003,116,Drama
+Control,3,7.7,0.78,61609,122,Biography
+Tangled,7,7.7,0.71,405922,100,Animation
+Zwartboek,0,7.7,0.71,72643,145,Drama
+Brokeback Mountain,0,7.7,0.87,323103,134,Drama
+3:10 to Yuma,2,7.7,0.76,288797,122,Action
+Crash,1,7.7,0.66,419483,112,Crime
+Kung fu,2,7.7,0.78,127250,99,Action
+The Bourne Supremacy,2,7.7,0.73,434841,108,Action
+The Machinist,0,7.7,0.61,358432,101,Drama
+Ray,3,7.7,0.73,138356,152,Biography
+Lost in Translation,5,7.7,0.89,415074,102,Comedy
+Harry Potter and the Goblet of Fire,6,7.7,0.81,548619,157,Adventure
+Man on Fire,2,7.7,0.47,329592,146,Action
+Coraline,7,7.7,0.8,197761,100,Animation
+The Last Samurai,2,7.7,0.55,400049,154,Action
+The Magdalene Sisters,0,7.7,0.83,25938,114,Drama
+Good Bye Lenin!,5,7.7,0.68,137981,121,Comedy
+In America,0,7.7,0.76,40403,105,Drama
+I Am Sam,0,7.7,0.28,142863,132,Drama
+Adaptation.,5,7.7,0.83,178565,115,Comedy
+Black Hawk Down,0,7.7,0.74,364254,144,Drama
+Road to Perdition,1,7.7,0.72,246840,117,Crime
+Das Experiment,0,7.7,0.6,90842,120,Drama
+Billy Elliot,0,7.7,0.74,126770,110,Drama
+Hedwig and the Angry Inch,5,7.7,0.85,31957,95,Comedy
+Ocean's Eleven,1,7.7,0.74,516372,116,Crime
+Vampire Hunter D: Bloodlust,7,7.7,0.62,29210,103,Animation
+"O Brother, Where Art Thou?",6,7.7,0.69,286742,107,Adventure
+Interstate 60: Episodes of the Road,6,7.7,0,29999,116,Adventure
+"South Park: Bigger, Longer & Uncut",7,7.7,0.73,192112,81,Animation
+Office Space,5,7.7,0.68,241575,89,Comedy
+Happiness,5,7.7,0.81,66408,134,Comedy
+Training Day,1,7.7,0.69,390247,122,Crime
+Rushmore,5,7.7,0.86,169229,93,Comedy
+Abre los ojos,0,7.7,0,64082,119,Drama
+Being John Malkovich,5,7.7,0.9,312542,113,Comedy
+As Good as It Gets,5,7.7,0.67,275755,139,Comedy
+The Fifth Element,2,7.7,0.52,434125,126,Action
+Le dîner de cons,5,7.7,0.73,37424,80,Comedy
+Donnie Brasco,3,7.7,0.76,279318,127,Biography
+Shine,3,7.7,0.87,51350,105,Biography
+Primal Fear,1,7.7,0.47,189716,129,Crime
+Hamlet,0,7.7,0,35991,242,Drama
+A Little Princess,0,7.7,0.83,32236,97,Drama
+Do lok tin si,5,7.7,0.71,26429,99,Comedy
+Il postino,3,7.7,0.81,33600,108,Biography
+Clerks,5,7.7,0.7,211450,92,Comedy
+Short Cuts,5,7.7,0.79,42275,188,Comedy
+Philadelphia,0,7.7,0.66,224169,125,Drama
+The Muppet Christmas Carol,5,7.7,0.64,50298,85,Comedy
+Malcolm X,3,7.7,0.73,85819,202,Biography
+The Last of the Mohicans,2,7.7,0.76,150409,112,Action
+Kurenai no buta,7,7.7,0.83,77798,94,Animation
+Glengarry Glen Ross,1,7.7,0.82,95826,100,Crime
+A Few Good Men,0,7.7,0.62,235388,138,Drama
+Fried Green Tomatoes,0,7.7,0.64,66941,130,Drama
+Barton Fink,5,7.7,0.69,113240,116,Comedy
+Miller's Crossing,1,7.7,0.66,125822,115,Crime
+Who Framed Roger Rabbit,7,7.7,0.83,182009,104,Animation
+Spoorloos,9,7.7,0,33982,107,Mystery
+Withnail & I,5,7.7,0.84,40396,107,Comedy
+The Last Emperor,3,7.7,0.76,94326,163,Biography
+Empire of the Sun,2,7.7,0.62,115677,153,Action
+Der Name der Rose,1,7.7,0.54,102031,130,Crime
+Blue Velvet,0,7.7,0.76,181285,120,Drama
+The Purple Rose of Cairo,5,7.7,0.75,47102,82,Comedy
+After Hours,5,7.7,0.9,59635,97,Comedy
+Zelig,5,7.7,0,39881,79,Comedy
+The Verdict,0,7.7,0.77,36096,129,Drama
+Star Trek II: The Wrath of Khan,2,7.7,0.67,112704,113,Action
+First Blood,2,7.7,0.61,226541,93,Action
+Ordinary People,0,7.7,0.86,47099,124,Drama
+Airplane!,5,7.7,0.78,214882,88,Comedy
+Rupan sansei: Kariosutoro no shiro,7,7.7,0.71,27014,100,Animation
+Halloween,8,7.7,0.87,233106,91,Horror
+Le locataire,0,7.7,0.71,39889,126,Drama
+Love and Death,5,7.7,0.89,36037,85,Comedy
+The Taking of Pelham One Two Three,2,7.7,0.68,26729,104,Action
+Blazing Saddles,5,7.7,0.73,125993,93,Comedy
+Serpico,3,7.7,0.87,109941,130,Biography
+Enter the Dragon,2,7.7,0.83,96561,102,Action
+Deliverance,6,7.7,0.8,98740,109,Adventure
+The French Connection,2,7.7,0.94,110075,104,Action
+Dirty Harry,2,7.7,0.9,143292,102,Action
+Where Eagles Dare,2,7.7,0.63,51913,158,Action
+The Odd Couple,5,7.7,0.86,31572,105,Comedy
+The Dirty Dozen,2,7.7,0.73,67183,150,Action
+Belle de jour,0,7.7,0,40274,100,Drama
+A Man for All Seasons,3,7.7,0.72,31222,120,Biography
+Repulsion,0,7.7,0.91,48883,105,Drama
+Zulu,0,7.7,0.77,35999,138,Drama
+Goldfinger,2,7.7,0.87,174119,110,Action
+The Birds,0,7.7,0.9,171739,119,Drama
+Cape Fear,0,7.7,0.76,26457,106,Drama
+Peeping Tom,0,7.7,0,31354,101,Drama
+The Magnificent Seven,2,7.7,0.74,87719,128,Action
+Les yeux sans visage,0,7.7,0.9,27620,90,Drama
+Invasion of the Body Snatchers,0,7.7,0.92,44839,80,Drama
+Rebel Without a Cause,0,7.7,0.89,83363,111,Drama
+The Ladykillers,5,7.7,0.91,26464,91,Comedy
+Sabrina,5,7.7,0.72,59415,113,Comedy
+The Quiet Man,5,7.7,0,34677,129,Comedy
+The Day the Earth Stood Still,0,7.7,0,76315,92,Drama
+The African Queen,6,7.7,0.91,71481,105,Adventure
+Gilda,0,7.7,0,27991,110,Drama
+Fantasia,7,7.7,0.96,88662,125,Animation
+The Invisible Man,8,7.7,0.87,30683,71,Horror
+Dark Waters,3,7.6,0.73,60408,126,Biography
+Searching,0,7.6,0.71,140840,102,Drama
+Once Upon a Time... in Hollywood,5,7.6,0.83,551309,161,Comedy
+Nelyubov,0,7.6,0.86,29765,127,Drama
+The Florida Project,0,7.6,0.92,95181,111,Drama
+Just Mercy,3,7.6,0.68,46739,137,Biography
+Gifted,0,7.6,0.6,99643,101,Drama
+The Peanut Butter Falcon,6,7.6,0.7,66346,97,Adventure
+Victoria,1,7.6,0.77,52903,138,Crime
+Mustang,0,7.6,0.83,35785,97,Drama
+Guardians of the Galaxy Vol. 2,2,7.6,0.67,569974,136,Action
+Baby Driver,2,7.6,0.86,439406,113,Action
+Only the Brave,2,7.6,0.72,58371,134,Action
+Bridge of Spies,0,7.6,0.81,287659,142,Drama
+Incredibles 2,7,7.6,0.8,250057,118,Animation
+Moana,7,7.6,0.81,272784,107,Animation
+Sicario,2,7.6,0.82,371291,121,Action
+Creed,0,7.6,0.82,247666,133,Drama
+Leviafan,1,7.6,0.92,49397,140,Crime
+Hell or High Water,2,7.6,0.88,204175,102,Action
+Philomena,3,7.6,0.77,94212,98,Biography
+Dawn of the Planet of the Apes,2,7.6,0.79,411599,130,Action
+El cuerpo,9,7.6,0,57549,112,Mystery
+Serbuan maut,2,7.6,0.73,190531,101,Action
+End of Watch,2,7.6,0.68,228132,109,Action
+Kari-gurashi no Arietti,7,7.6,0.8,80939,94,Animation
+A Star Is Born,0,7.6,0.88,334312,136,Drama
+True Grit,0,7.6,0.8,311822,110,Drama
+Hævnen,0,7.6,0.65,38491,118,Drama
+Despicable Me,7,7.6,0.72,500851,95,Animation
+50/50,5,7.6,0.72,315426,100,Comedy
+Kick-Ass,2,7.6,0.66,524081,117,Action
+Celda 211,2,7.6,0,63882,113,Action
+Moneyball,3,7.6,0.87,369529,133,Biography
+La piel que habito,0,7.6,0.7,138959,120,Drama
+Zombieland,6,7.6,0.73,520041,88,Adventure
+Die Welle,0,7.6,0,102742,107,Drama
+Sherlock Holmes,2,7.6,0.57,583158,128,Action
+The Blind Side,3,7.6,0.53,293266,129,Biography
+The Visitor,0,7.6,0.79,41544,104,Drama
+Seven Pounds,0,7.6,0.36,286770,123,Drama
+Eastern Promises,2,7.6,0.82,227760,100,Action
+Stardust,6,7.6,0.66,255036,127,Adventure
+The Secret of Kells,7,7.6,0.81,31779,71,Animation
+Inside Man,1,7.6,0.76,339757,129,Crime
+Gone Baby Gone,1,7.6,0.72,250590,114,Crime
+La Vie En Rose,3,7.6,0.66,82781,140,Biography
+Huo Yuan Jia,2,7.6,0.7,72863,104,Action
+The Illusionist,0,7.6,0.68,354728,110,Drama
+Dead Man's Shoes,1,7.6,0.52,49728,90,Crime
+Harry Potter and the Half-Blood Prince,2,7.6,0.78,474827,153,Action
+300,2,7.6,0.52,732876,117,Action
+Match Point,0,7.6,0.72,206294,124,Drama
+Watchmen,2,7.6,0.56,500799,162,Action
+Lord of War,2,7.6,0.62,294140,122,Action
+Saw,8,7.6,0.46,379020,103,Horror
+"Synecdoche, New York",0,7.6,0.67,83158,124,Drama
+Mysterious Skin,0,7.6,0.73,65939,105,Drama
+Jeux d'enfants,5,7.6,0.45,67360,93,Comedy
+Un long dimanche de fiançailles,0,7.6,0.76,70925,133,Drama
+The Station Agent,5,7.6,0.81,67370,89,Comedy
+21 Grams,1,7.6,0.7,224545,124,Crime
+Boksuneun naui geot,1,7.6,0.56,62659,129,Crime
+Finding Neverland,3,7.6,0.67,198677,106,Biography
+25th Hour,0,7.6,0.68,169708,135,Drama
+The Butterfly Effect,0,7.6,0.3,451479,113,Drama
+28 Days Later...,0,7.6,0.73,376853,113,Drama
+Batoru rowaiaru,2,7.6,0.81,169091,114,Action
+The Royal Tenenbaums,5,7.6,0.76,266842,110,Comedy
+Y tu mamá también,0,7.6,0.88,115827,106,Drama
+Harry Potter and the Sorcerer's Stone,6,7.6,0.64,658185,152,Adventure
+The Others,8,7.6,0.74,337651,101,Horror
+Blow,3,7.6,0.52,240714,124,Biography
+Enemy at the Gates,0,7.6,0.53,243729,131,Drama
+Minority Report,2,7.6,0.8,508417,145,Action
+The Hurricane,3,7.6,0.74,91557,146,Biography
+American Psycho,5,7.6,0.64,490062,101,Comedy
+Lola rennt,1,7.6,0.77,188317,81,Crime
+The Thin Red Line,0,7.6,0.78,172710,170,Drama
+Mulan,7,7.6,0.71,256906,88,Animation
+Fear and Loathing in Las Vegas,6,7.6,0.41,259753,118,Adventure
+Funny Games,1,7.6,0.69,65058,108,Crime
+Dark City,9,7.6,0.66,187927,100,Mystery
+Sleepers,1,7.6,0.49,186734,147,Crime
+Lost Highway,9,7.6,0.52,131101,134,Mystery
+Sense and Sensibility,0,7.6,0.84,102598,136,Drama
+Die Hard: With a Vengeance,2,7.6,0.58,364420,128,Action
+Dead Man,6,7.6,0.62,90442,121,Adventure
+The Bridges of Madison County,0,7.6,0.69,73172,135,Drama
+Apollo 13,6,7.6,0.77,269197,140,Adventure
+Trois couleurs: Blanc,5,7.6,0.88,64390,92,Comedy
+Falling Down,2,7.6,0.56,171640,113,Action
+Dazed and Confused,5,7.6,0.78,165465,102,Comedy
+My Cousin Vinny,5,7.6,0.68,107325,120,Comedy
+Omohide poro poro,7,7.6,0.9,27071,118,Animation
+Delicatessen,5,7.6,0.66,80487,99,Comedy
+Home Alone,5,7.6,0.63,488817,103,Comedy
+The Godfather: Part III,1,7.6,0.6,359809,162,Crime
+When Harry Met Sally...,5,7.6,0.76,195663,95,Comedy
+The Little Mermaid,7,7.6,0.88,237696,83,Animation
+The Naked Gun: From the Files of Police Squad!,5,7.6,0.76,152871,85,Comedy
+"Planes, Trains & Automobiles",5,7.6,0.72,124773,93,Comedy
+Lethal Weapon,2,7.6,0.68,236894,109,Action
+Blood Simple,1,7.6,0.82,87745,99,Crime
+On Golden Pond,0,7.6,0.68,27650,109,Drama
+Mad Max 2,2,7.6,0.77,166588,96,Action
+The Warriors,2,7.6,0.65,93878,92,Action
+The Muppet Movie,6,7.6,0.74,32802,95,Adventure
+Escape from Alcatraz,2,7.6,0.76,121731,112,Action
+Watership Down,7,7.6,0.64,33656,91,Animation
+Midnight Express,3,7.6,0.59,73662,121,Biography
+Close Encounters of the Third Kind,0,7.6,0.9,184966,138,Drama
+The Long Goodbye,5,7.6,0.87,26337,112,Comedy
+Giù la testa,0,7.6,0.77,30144,157,Drama
+Kelly's Heroes,6,7.6,0.5,45338,144,Adventure
+The Jungle Book,7,7.6,0.65,166409,78,Animation
+Blowup,0,7.6,0.82,56513,111,Drama
+A Hard Day's Night,5,7.6,0.96,40351,87,Comedy
+Breakfast at Tiffany's,5,7.6,0.76,166544,115,Comedy
+Giant,0,7.6,0.84,34075,201,Drama
+From Here to Eternity,0,7.6,0.85,43374,118,Drama
+Lifeboat,0,7.6,0.78,26471,97,Drama
+The 39 Steps,1,7.6,0.93,51853,86,Crime
